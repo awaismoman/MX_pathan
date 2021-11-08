@@ -128,7 +128,7 @@ logo = """
 
 \x1b[1;93m--------------------------------------------------------------
 \x1b[1;92m➣  Owner  : AWAIS_PAHTON_TAHTBAHI
-\x1b[1;91m➣  Facebook :https://www.facebook.com/Mohmand.awais
+\x1b[1;91m➣  Facebook :Momand.awais
 \x1b[1;93m➣  Note     :Isreal is on my foot fuck isreal
 \x1b[1;95m➣  Warning  : IF NOT WORK THAN USE FREE VPN
 \x1b[1;96m➣  page :  https://www.facebook.com/Termux-commands-free-108093438281361/
