@@ -127,7 +127,6 @@ logo = """
 \x1b[1;97m
 
 \x1b[1;93m--------------------------------------------------------------
-
 \x1b[1;92m➣  Owner  : AWAIS_PAHTON_TAHTBAHI
 \x1b[1;91m➣  Facebook :https://www.facebook.com/Mohmand.awais
 \x1b[1;93m➣  Note     :Isreal is on my foot fuck isreal
